@@ -103,7 +103,7 @@
     "husky": "8.0.2",
     "json-schema-to-typescript": "11.0.2",
     "lerna": "7.0.0",
-    "lint-staged": "13.1.0",
+    "lint-staged": "13.2.3",
     "log-symbols": "4.1.0",
     "midnight-smoker": "2.0.0",
     "mjpeg-consumer": "2.0.0",
